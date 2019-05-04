@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/Users/frans-free/.gradle/caches/transforms-1/files-1.1/HUAWEI AR Engine SDK_v1.7.0.aar/23eac617cbea4cc2e8b457e4242ba01a/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,104,154,227,283,344",
+                        "endColumns": "48,49,72,55,60,67",
+                        "endOffsets": "99,149,222,278,339,407"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "368,417,467,540,596,657",
+                        "endColumns": "48,49,72,55,60,67",
+                        "endOffsets": "412,462,535,591,652,720"
+                    }
+                },
+                {
+                    "source": "/Users/frans-free/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/5b345233cff335d67a01bb59ac493e84/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,237,282,354,430",
+                        "endColumns": "42,44,71,75,56",
+                        "endOffsets": "236,281,353,429,486"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,227,307",
+                        "endColumns": "46,48,75,79,60",
+                        "endOffsets": "97,146,222,302,363"
+                    }
+                }
+            ]
+        }
+    ]
+}

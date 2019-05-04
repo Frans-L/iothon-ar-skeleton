@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E76019A0-E486-7305-C723-D9B537533EFC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SkeletonButton.cs">
+    <Files>
+      <File FileName="Assets/BodyTracker.cs" Line="19" Column="1" />
+      <File FileName="Assets/Client.cs" Line="24" Column="9" />
+      <File FileName="Assets/SkeletonButton.cs" Line="5" Column="1" />
+      <File FileName="Assets/IpTextUpdater.cs" Line="22" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

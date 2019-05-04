@@ -1,0 +1,26 @@
+iothon.team.quadratic
+drawable app_banner
+id __arcore_cancelButton
+id __arcore_continueButton
+id __arcore_messageText
+layout __arcore_education
+layout __arengine_education
+mipmap app_icon
+mipmap app_icon_round
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+string __arcore_cancel
+string __arcore_continue
+string __arcore_install_app
+string __arcore_install_feature
+string __arcore_installing
+string __arengine_cancel
+string __arengine_install
+string __arengine_install_app
+string __arengine_set_wireless
+string __arengine_unknow_error
+string __arengine_unknow_timeout
+string app_name
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

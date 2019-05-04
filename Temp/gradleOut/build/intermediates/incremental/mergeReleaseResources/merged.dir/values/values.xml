@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Cancel</string>
+    <string name="__arcore_continue">Continue</string>
+    <string name="__arcore_install_app">This application requires the latest version of ARCore.</string>
+    <string name="__arcore_install_feature">This feature requires the latest version of ARCore.</string>
+    <string name="__arcore_installing">Installing ARCore…</string>
+    <string name="__arengine_cancel">CANCEL</string>
+    <string name="__arengine_install">INSTALL</string>
+    <string name="__arengine_install_app">Install the latest version of HUAWEI AR Engine to access this feature.</string>
+    <string name="__arengine_set_wireless">OK</string>
+    <string name="__arengine_unknow_error">Unknow error. Please try again.</string>
+    <string name="__arengine_unknow_timeout">No Internet connection. Check your network settings.</string>
+    <string name="app_name">AndroidPointCloud</string>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+</style>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+	<item name="android:windowBackground">@android:color/black</item>
+</style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+</style>
+</resources>

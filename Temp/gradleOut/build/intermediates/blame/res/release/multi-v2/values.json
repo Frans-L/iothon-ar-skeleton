@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/frans-free/.gradle/caches/transforms-1/files-1.1/HUAWEI AR Engine SDK_v1.7.0.aar/23eac617cbea4cc2e8b457e4242ba01a/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,108,163,285,340,424",
+                        "endColumns": "52,54,121,54,83,106",
+                        "endOffsets": "103,158,280,335,419,526"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "438,491,546,668,723,807",
+                        "endColumns": "52,54,121,54,83,106",
+                        "endOffsets": "486,541,663,718,802,909"
+                    }
+                },
+                {
+                    "source": "/Users/frans-free/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/5b345233cff335d67a01bb59ac493e84/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,360,461",
+                        "endColumns": "46,50,100,100,62",
+                        "endOffsets": "207,258,359,460,523"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,266,371",
+                        "endColumns": "50,54,104,104,66",
+                        "endOffsets": "101,156,261,366,433"
+                    }
+                },
+                {
+                    "source": "/Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "14,16,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "969,1069,1207",
+                        "endLines": "15,18,22",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "1064,1202,1429"
+                    }
+                },
+                {
+                    "source": "/Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "914",
+                        "endColumns": "54",
+                        "endOffsets": "964"
+                    }
+                }
+            ]
+        }
+    ]
+}
