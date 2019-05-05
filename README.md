@@ -19,6 +19,19 @@ The server detects the strokes and compares them to a beforehand recorded model 
 The haptic feedback sensors guide the hand movements in the right direction. If there is no vibration, the stroke has been successful.
 
 
+![Skeleton Tracking](https://github.com/Frans-L/iothon-ar-skeleton/blob/master/Images/AR_Tracking.jpg?raw=true "Skeleton Tracking")
+
+
+^ The skeleton tracking
+
+![IoT](https://github.com/Frans-L/iothon-ar-skeleton/blob/master/Images/IoT.jpg?raw=true "IoT")
+
+^ Our IoT device with LTE-M connection and haptic feedback sensors
+
+![Server](https://github.com/Frans-L/iothon-ar-skeleton/blob/master/Images/Server.jpg?raw=true "Server")
+
+^ Fitting the hand motions to the model data
+
 ## Structure
 
 The software consists of 3 different parts.
