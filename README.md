@@ -25,7 +25,7 @@ The software consists of 3 different parts.
 
 * **Android app** 
     * The app captures the badminton court and detects the player's skeleton. The app streams the data of body joints to the server over UDP. The app is made with Unity and Huawei AR Engine.
-    * https://github.com/Frans-L/racket-ar
+    * https://github.com/Frans-L/iothon-ar-skeleton
 * **Server**
     * The server normalizes the data, so the height of the user nor the position on the court are not affecting the data. The data is compared to the pre-recorded model strokes. If the current arm position differs from the optimal position, the server sends the data to our IoT sensor. The server is made with Python3.
     * https://github.com/MythicManiac/RacketServer
