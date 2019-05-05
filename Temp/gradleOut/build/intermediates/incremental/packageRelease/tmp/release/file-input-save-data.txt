@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 05 02:04:13 EEST 2019
+#Sun May 05 04:08:45 EEST 2019
 60.set=ASSET
 52.set=ASSET
 53.base=/Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0

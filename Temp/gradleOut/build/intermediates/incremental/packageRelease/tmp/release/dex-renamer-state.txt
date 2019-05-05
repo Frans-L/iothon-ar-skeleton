@@ -1,4 +1,4 @@
-#Sun May 05 02:04:12 EEST 2019
+#Sun May 05 04:08:45 EEST 2019
 base.0=/Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex

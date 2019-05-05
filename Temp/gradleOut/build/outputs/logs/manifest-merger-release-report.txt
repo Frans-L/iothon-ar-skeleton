@@ -74,15 +74,15 @@ MERGED from [:google_ar_optional:] /Users/frans-free/.gradle/caches/transforms-1
 activity#com.unity3d.player.UnityPlayerActivity
 ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
 	android:screenOrientation
-		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-145
 	android:label
 		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
 	android:launchMode
-		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:146-177
 	android:hardwareAccelerated
-		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:360-395
 	android:configChanges
-		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:178-359
 	android:name
 		ADDED from /Users/frans-free/projects/AndroidPointCloud/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER

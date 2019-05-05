@@ -40,6 +40,7 @@ public class StartButton : MonoBehaviour
         {
             Common.BodySkeletonVisualizer.trackingState = Common.TrackingState.off;
             textComponent.text = "Start";
+            ClientConn.Send("end");
         }
 
 
