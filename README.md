@@ -4,9 +4,15 @@ This software gives real-time haptic feedback to athletes from a video stream. I
 
 When the player strikes, the haptic feedback sensors gives an impulse to the player's joint, if the joint has been in a nonoptimal position. So, the player can improve his/her stroking technique without stopping the game.
 
-This is made possible by using AR skeleton tracking, LTE-M networks and IoT device with haptic feedback sensors.
+This is made possible by using AR skeleton tracking, NB-IoT networks and IoT device with haptic feedback sensors.
 
 The same technique could also be applied to other sports such as golf, dancing, boxing, wall climbing etc.
+
+## Motivation
+
+- We wanted to show that AR is more than added visual elements.
+- We wanted to make a device that has proper hardware 
+- We wanted to create something actually useful right now
 
 ## Description
 
@@ -58,18 +64,18 @@ The software consists of 3 different parts.
     * Python3
 * Haptic Feedback IoT
     * Arduino xxx
-    * IoT Sim card: LTE-M
+    * IoT Sim card: NB-IoT
     * ...
 
 ## Vision
 
-The technique trainings of sports have been dependent on professional trainers for decades. We really think that this idea could made technique training possible for everyone with truly small expenses. The potential market is huge.
+The technique training of sports has been dependent on professional trainers for decades. We really think that this idea could make technique training possible for everyone with truly small expenses. The potential market is huge.
 
 In addition, the live haptic feedback is something that we have not seen anyone to do before.
 
-If we would have more time than 48 hours, we would add more stroke models and make the hapti feedback sensor to be smaller.
+If we would have more time than 48 hours, we would add more stroke models and make the haptic feedback sensor to be smaller.
 
-If you are interested of the idea, feel free to contact us. We are more than happy to share our vision.
+If you are interested in the idea, feel free to contact us. We are more than happy to share our vision.
 
 ## Info
 
